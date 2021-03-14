@@ -18,5 +18,5 @@ with open('some_text.txt', 'r') as some_text:
         some_file.append(some_dictionary[i[0]] + ' ' + i[1])
     print(some_file)
 
-with open('new_some_text.txt', 'w') as new_some_text:
+with open('new_some_text.txt', 'w', encoding = 'UTF-8') as new_some_text:
     new_some_text.writelines(some_file)
