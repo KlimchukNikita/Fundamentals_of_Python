@@ -1,0 +1,6 @@
+Forman 15000
+Smith 25000
+Backer 20000
+Cramer 30000
+Harrison 10000
+Fisher 35000
